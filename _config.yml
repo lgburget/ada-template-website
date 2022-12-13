@@ -4,6 +4,4 @@ description: Exploration of the factors that lead a film produced in Hollywood o
 show_downloads: True
 navigation:
   - title: Home
-    url: /
-  - title: Example
-    url: example
+    url: page_1
